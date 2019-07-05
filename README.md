@@ -22,7 +22,7 @@ On this web site, the user will enter their DOB and as per their age the applica
 ## Setup/Installation Requirements
 
 * Clone this repository and open the .html file.
-* OR go directly to the [Web page](https://github.com/saswatipatra/Galactic-Age-Calculator/)
+* OR go directly to the [Web page](https://github.com/saswatipatra/Super-Galactic-Age-Calculator/)
 
 ## Known Bugs
 * No known bugs at this time.
