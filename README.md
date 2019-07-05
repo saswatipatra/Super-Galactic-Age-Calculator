@@ -11,10 +11,10 @@ On this web site, the user will enter their DOB and as per their age the applica
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **Using Date object Calculate the user age ** | Enter your DOB. example: 26 March 1990 | Output: user Age on Earth is 29.2yrs |
-| **Calcualte user age on different planets  ** | Select the planet. example: Mars | Output: user Age on Mars is 15.5yrs |
-| **Calcualte user next birthday on that planet ** | Select the planet. example: Mars | Output: your next birthday on Mars is on Apr 28, 2020 |
-| **Calcualte user life expectancy on different planets  ** | Select the planet. example: Mars | Output: you might live for 50yrs more |
+| **Using Date object Calculate the user age** | Enter your DOB. example: 26 March 1990 | Output: user Age on Earth is 29.2yrs |
+| **Calcualte user age on different planets** | Select the planet. example: Mars | Output: user Age on Mars is 15.5yrs |
+| **Calcualte user next birthday on that planet** | Select the planet. example: Mars | Output: your next birthday on Mars is on Apr 28, 2020 |
+| **Calcualte user life expectancy on different planets** | Select the planet. example: Mars | Output: you might live for 50yrs more |
 
 
 
